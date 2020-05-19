@@ -1,8 +1,6 @@
 /*
- * Project 5: reverse
  * Author: Ellie Kobak
- * usage:
- *
+ * usage: ./ek_reverse
  */
 
 #include <stdio.h>
